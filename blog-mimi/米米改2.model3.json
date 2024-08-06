@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "米米改2.moc3",
+		"Textures": [
+			"米米改2.4096/texture_00.png"
+		],
+		"Physics": "米米改2.physics3.json",
+		"DisplayInfo": "米米改2.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
